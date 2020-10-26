@@ -3,7 +3,7 @@ Python scripts to manage your Instagram account. Generate a list of everyone who
 
 [Firefox must be installed and configured to use with Selenium]
 [Temporary restrictions may be placed on your account for unfollowing too quickly]
-[All locally processed, check the source code to confirm. Don't run if you don't understand]
+[All locally processed, check the source code to confirm. Don't run if you don't understand or doubt security]
 
 # Instagram Followers.py 
 Checks a chosen Instagram account's followers and following and generates .txt files for both. 
