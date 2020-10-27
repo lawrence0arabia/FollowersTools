@@ -1,5 +1,5 @@
 # FollowersTools
-Python scripts to manage your Instagram account. Generate a list of everyone who doesn't follow you back, and feed that list into another script to automatically unfollow them.
+Python scripts to manage your Instagram account. One script to generate a list of everyone who doesn't follow you back, and another script to automatically unfollow them.
 
 [Firefox must be installed and configured to use with Selenium]
 [Temporary restrictions may be placed on your account for unfollowing too quickly]
